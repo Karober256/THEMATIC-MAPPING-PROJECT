@@ -1,0 +1,51 @@
+DISTRICT POPULATION ANALYSIS AND THEMATIC MAPPING PROJECT
+Group 17
+1. Project Description
+This project demonstrates how Python programming and Geographic Information Systems (GIS) can be used to analyse and visualize district population data in Uganda.
+The system uses population statistics and geographical boundary data to generate a thematic map, a population comparison chart and statistical summaries.
+2. Project Objectives
+Load district population data from a CSV file.
+Load geographical boundaries from a GeoJSON file.
+Match population data with geographical boundaries.
+Calculate population statistics.
+Generate an automatic thematic map.
+Produce a population comparison chart and PDF report.
+3. Technologies Used
+Python
+PyCharm
+GeoPandas
+Pandas
+Matplotlib
+GIS and GeoJSON data
+4. Study Districts
+The project analyses five districts:
+Wakiso
+Kampala
+Mukono
+Jinja
+Masaka
+5. Group 17 Members
+Name
+Registration Number
+KAWENJA ROBERT
+25/1/324/D/1707
+KIBIRANGO ANTHONY IAN
+25/1/324/D/999
+KAWEESI SHAFIK KHALID
+25/1/324/D/052
+WALUUBE PATRICIA LYTZ R.
+25/1/324/D/952
+OKUMU TRAVIS KAZAA
+25/1/324/D/1924
+6. Project Files
+main.py – Main Python program.
+district_data.csv – District population dataset.
+UGA District Boundaries 2024.geojson – Geographical boundary dataset.
+Report – Contains the final project report.
+7. Expected Outputs
+District population thematic map.
+Population comparison bar chart.
+Statistical analysis.
+PDF project report.
+8. Conclusion
+The project demonstrates the application of Python programming and GIS techniques in geographical data analysis and thematic map production.
